@@ -1,4 +1,4 @@
-# Localization matrix (Contentful aApp)
+# Localization matrix (Contentful App)
 
 The app aims to extend [Contentful CMS](https://www.contentful.com/) to represent localisation information for the content dependencies tree. It is developed according to the [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/) documentation.
 
