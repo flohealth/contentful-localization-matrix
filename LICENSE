@@ -19,3 +19,51 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+contentful/app-sdk": "4.14.1
+MIT license
+Copyright © 2015 Contentful
+
+contentful/f36-components": "4.26.0"
+MIT license
+Copyright © 2018-present Contentful GmbH
+
+contentful/f36-tokens": "4.0.1”
+MIT license
+Copyright © 2018-present Contentful GmbH
+
+contentful/react-apps-toolkit": "1.2.14”
+MIT license
+Copyright © 2020 Contentful
+
+emotion/react": "11.10.5”
+MIT license
+Copyright © Emotion team and other contributors
+
+emotion/styled": "11.10.5”
+MIT license
+Copyright © Emotion team and other contributors
+
+mui/material": "5.11.6”
+MIT license
+Copyright © 2014 Call-Em-All
+
+contentful-management": "10.40.0”
+MIT license
+Copyright © 2017 - 2018 David Litvak Bruno - Contentful GmbH
+
+emotion": "10.0.27”
+MIT license
+Copyright © Emotion team and other contributors
+
+react": "17.0.2”
+MIT license
+Copyright © Meta Platforms, Inc. and affiliates
+
+react-dom": "17.0.2”
+MIT license
+Copyright © Meta Platforms, Inc. and affiliates
+
+react-scripts": "5.0.1”
+MIT license
+Copyright © Meta Platforms, Inc. and affiliates

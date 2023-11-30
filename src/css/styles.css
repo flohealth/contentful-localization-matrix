@@ -1,0 +1,76 @@
+
+.empty-box-style {
+  height: 35px!important;
+  margin-left: 10px!important;
+  width: 20px!important;
+}
+
+.header-th{
+    position: sticky!important;
+    top: 0!important;
+    padding: 2px!important;
+    background-color: #F7F9FA;
+}
+
+.cell-basic {
+    margin: 0!important;
+    padding: 0!important;
+    vertical-align: middle!important;
+  }
+  
+.box-title {
+  height: 35px!important;
+  align-items: flex-end!important;
+  display: flex!important;
+}
+
+.box-style {
+  height: 35px!important;
+  border-left: 1px solid #CCC!important;
+  margin-left: 10px!important;
+  width: 20px!important;
+}
+
+.box-last-style-top {
+  height: 25px!important;
+  border-left: 1px solid #CCC!important;
+  border-bottom: 1px solid #CCC!important;
+  margin-left: 10px!important;
+  margin-right: 5px!important;
+  width: 20px!important;
+}
+
+.box-last-style-bottom {
+  height: 10px!important;
+  border-left: 1px solid #CCC!important;
+  margin-left: 10px!important;
+  margin-right: 5px!important;
+  width: 20px!important;
+}
+
+.status-badge{
+  margin-left: 10px;
+}
+
+.entry-card button{
+  display:none
+}
+
+.entry-card-link{
+  text-decoration: none
+}
+
+tr th:first-child {
+  width: 1%;
+  white-space: nowrap;
+  padding-right: 20px!important;
+  background-color: #F7F9FA;
+}
+
+tr th {
+  background-color: #F7F9FA;
+}
+
+.link-row-name{
+  white-space: nowrap;
+}
