@@ -116,8 +116,8 @@ When opening the default matrix page, you will be able to select filters (see [f
 
 ## Contributing guidelines
 
-For detailed information on how to contribute to this project, including bug reporting, feature requests, and pull requests, please refer to our [Contributing guidelines](./CONTRIBUTING.md).
+For detailed information on how to contribute to this project, including bug reporting, feature requests, and pull requests, please refer to our [Contributing guidelines](./CONTRIBUTING.MD).
 
 ## License
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./license)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
